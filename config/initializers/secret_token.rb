@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-CainComunity::Application.config.secret_token = 'ec94d8af6c9b814408634cc947d040040b8db3518ad8eba1123ef9d87288ee2b491654177650ab4b8fe3fbaee315688e6df6488aa36886479f87f779f249b895'
+CainComunity::Application.config.secret_token = '0ef3dcbe0843b4b7b943ace9436cf7cda591d82c5ad700dc441b256613c4dabdac65d66e6ba022be68761f9896a9088fa747b53236447ec15576cbf201d1c1df'
